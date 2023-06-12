@@ -1,0 +1,94 @@
+{
+  "header": {
+    "userTag": "@yashguptatech",
+    "name": "Yash Gupta",
+    "socials": {
+      "github": "https://github.com/yashguptatech",
+      "linkedin": "https://www.linkedin.com/in/yashguptatech/",
+      "twitter": "https://twitter.com/yashguptatech",
+      "medium": "https://medium.com/@yashgupta.tech",
+      "mail": "mailto://yashgupta.tech@gmail.com"
+    }
+  },
+  "intro": {
+    "designations": [
+      "Student",
+      "Software Engineer",
+      "QA Engineer",
+      "AI ML Enthusiast",
+      "Growth Enthusiast"
+    ],
+
+    "text": "The purpose of this portfolio website is to quickly become familiar with my few projects and general information about me",
+    "resumeLink": "https://github.com/yashguptatech/Resume/raw/main/Yash%20Gupta%20CV.pdf"
+  },
+  "about": {
+    "image": "profileImage.png",
+    "info": "Skilled and passionate Software + QA Engineer with more than 1yr of experience in building various fun porjects and working on industry projects. Love learning new things and progressing alongside ambitious and adaptable people. Positive reputation for quality work, timely construction, and finishing projects at estimated budget as a freelancer. Being a growth influencer I love to spread the things I learn to others and also learn from amazing people."
+  },
+  "education": [
+    {
+      "course": " Bachelors of Technology (Computer Science Engineering) ",
+      "institution": "Manav Rachna International Institute Of Research And Studies",
+      "duration": "2021 ~ 2025",
+      "gpa": "",
+      "icon": "university"
+    },
+    {
+      "course": "High School Diploma in Science",
+      "institution": "Central Board of Secondary Education",
+      "duration": "Until 2021",
+      "gpa": "",
+      "icon": "school"
+    }
+  ],
+  "jobs": [
+    {
+      "position": "Software Engineer",
+      "institution": "Shoora Technologies, Dubai UAE",
+      "duration": "July 2022 - Present",
+      "icon": "remote"
+    },{
+      "position": "Quality Assurance Engineer",
+      "institution": "Josera Agriculture, Germany",
+      "duration": "April 2022 - Present",
+      "icon": "remote"
+    },
+    {
+      "position": "GDSC Core Member",
+      "institution": "Google Developer Student Club",
+      "duration": "Aug 2022 - Present",
+      "icon": "remote"
+    }
+  ],
+  "projects": {
+    "myProjects": [
+      {
+        "name": "Sorting Visualizer",
+        "description": "Web App built using HTML/CSS/JS to visualize all basic sorting algorithms.",
+        "link": "https://www.yashgupta.org/sorting-visualizer/",
+        "image": "sorting-visualizer.png",
+        "languages": [],
+        "tags": []
+      },
+      {
+        "name": "Mentoring Portal",
+        "description": "Oclif based backend CLI tool to automate manual setup of micro-services.",
+        "link": "https://www.yashgupta.org/mentoring-portal/",
+        "image": "mentoring-portal.png",
+        "languages": [],
+        "tags": []
+      }
+    ],
+    "Industry_Projects": [
+      {
+        "name": "Kulisha Ng'ombe Project",
+        "description": "A Ration Calculation and Customer Administration Tool to help local businesses and local farmers in Tanzania.",
+        "link": "http://calculator.josera-agriculture.com",
+        "image": "Josera.png",
+        "languages": [],
+        "tags": []
+      }
+    ]
+  }
+}

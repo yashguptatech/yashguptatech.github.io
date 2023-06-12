@@ -1,5 +1,12 @@
-<h1> 3D Portfolio Website </h1>
+## Personal Portfolio
 
-Here is a preview of my portfolio website. Have fun!-
+### [Live Site](https://shivam-bhasin.netlify.app)
 
-Website Link https://www.yashgupta.org
+![Portfolio Website](public/screenshot.png)
+
+This is a sample of my personal portfolio website.  
+It's built up using Next.js, ReactJs, and Tailwind CSS.
+
+#### Setup:
+- run ```npm i && npm run dev```
+# portfolio-main
