@@ -25,7 +25,7 @@ const Layout = ({ children, darkMode, onClick, header }) => {
       <footer
         className="text-accent-dark/40 text-xl w-full text-center absolute bottom-[20px]"
       >
-        © 2022 {header.name}. All Rights Reserved.
+        © 2023 {header.name}. All Rights Reserved.
       </footer>
       <ScrollToTop />
       <DarkModeButton darkMode={darkMode} onClick={onClick} />
