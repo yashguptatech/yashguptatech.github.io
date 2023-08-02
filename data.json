@@ -73,7 +73,7 @@
       },
       {
         "name": "Mentoring Portal",
-        "description": "Oclif based backend CLI tool to automate manual setup of micro-services.",
+        "description": " A web app built using HTML/CSS/JS and Firebase to connect mentors and mentees.",
         "link": "https://www.yashgupta.org/mentoring-portal/",
         "image": "mentoring-portal.png",
         "languages": [],
