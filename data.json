@@ -91,10 +91,10 @@
     ],
     "myProjects": [
       {
-        "name": "Sorting Visualizer",
-        "description": "Web App built using HTML/CSS/JS to visualize all basic sorting algorithms.",
-        "link": "https://www.yashgupta.org/sorting-visualizer/",
-        "image": "sorting-visualizer.png",
+        "name": "HappySadCNNImageclassifier",
+        "description": "Classifying the image, whether the subject in the image is happy or sad using convolutional neural networks image classification",
+        "link": "https://www.yashgupta.org/HappySadCNNImageclassifier/",
+        "image": "HappySadCNNImageclassifier.png",
         "languages": [],
         "tags": []
       },
