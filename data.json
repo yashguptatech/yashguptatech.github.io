@@ -91,7 +91,7 @@
     ],
     "myProjects": [
       {
-        "name": "HappySadCNNImageclassifier",
+        "name": "Happy or Sad Classifier",
         "description": "Classifying the image, whether the subject in the image is happy or sad using convolutional neural networks image classification",
         "link": "https://www.yashgupta.org/HappySadCNNImageclassifier/",
         "image": "HappySadCNNImageclassifier.png",
