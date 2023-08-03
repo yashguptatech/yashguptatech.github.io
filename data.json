@@ -88,6 +88,14 @@
         "image": "Josera.png",
         "languages": [],
         "tags": []
+      },
+      {
+        "name": "SHOORA",
+        "description": "AI ML and IoT based Driver State Monitoring System to prevent accidents due to drowsiness and distraction. and Fleet Management System to monitor the fleet and driver's performance.",
+        "link": "https://newsafety.shoora.com",
+        "image": "Shoora.png",
+        "languages": [],
+        "tags": []
       }
     ]
   }
