@@ -46,12 +46,21 @@
     {
       "position": "Software Engineer",
       "institution": "Shoora Technologies, Dubai UAE",
+      "link": "https://shoora.com",
       "duration": "July 2022 - Present",
       "icon": "remote"
-    },{
+    },
+    {
+      "position": "Project Management Intern",
+      "institution": "Shoora Technologies, Dubai UAE",
+      "link": "https://shoora.com",
+      "duration": "July 2022 - Present",
+      "icon": "remote"
+    },
+    {
       "position": "Quality Assurance Engineer",
       "institution": "Josera Agriculture, Germany",
-      "duration": "April 2022 - Present",
+      "duration": "April 2022 - Dec 2022",
       "icon": "remote"
     },
     {
@@ -62,24 +71,6 @@
     }
   ],
   "projects": {
-    "myProjects": [
-      {
-        "name": "Sorting Visualizer",
-        "description": "Web App built using HTML/CSS/JS to visualize all basic sorting algorithms.",
-        "link": "https://www.yashgupta.org/sorting-visualizer/",
-        "image": "sorting-visualizer.png",
-        "languages": [],
-        "tags": []
-      },
-      {
-        "name": "Mentoring Portal",
-        "description": " A web app built using HTML/CSS/JS and Firebase to connect mentors and mentees.",
-        "link": "https://www.yashgupta.org/mentoring-portal/",
-        "image": "mentoring-portal.png",
-        "languages": [],
-        "tags": []
-      }
-    ],
     "Industry_Projects": [
       {
         "name": "Kulisha Ng'ombe Project",
@@ -94,6 +85,24 @@
         "description": "AI ML and IoT based Driver State Monitoring System to prevent accidents due to drowsiness and distraction. and Fleet Management System to monitor the fleet and driver's performance.",
         "link": "https://newsafety.shoora.com",
         "image": "Shoora.png",
+        "languages": ["Django", "Python", "ReactJS", "PostgreSQL", "AWS", "Docker", "Git"],
+        "tags": []
+      }
+    ],
+    "myProjects": [
+      {
+        "name": "Sorting Visualizer",
+        "description": "Web App built using HTML/CSS/JS to visualize all basic sorting algorithms.",
+        "link": "https://www.yashgupta.org/sorting-visualizer/",
+        "image": "sorting-visualizer.png",
+        "languages": [],
+        "tags": []
+      },
+      {
+        "name": "Mentoring Portal",
+        "description": " A web app built using HTML/CSS/JS to connect mentors and mentees.",
+        "link": "https://www.yashgupta.org/mentoring-portal/",
+        "image": "mentoring-portal.png",
         "languages": [],
         "tags": []
       }
