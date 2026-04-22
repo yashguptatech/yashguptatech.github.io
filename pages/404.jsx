@@ -29,8 +29,8 @@ const NotFound = () => {
       >
         <Image
           src="/broken-mug.png"
-          width={400}
-          height={400}
+          width="400"
+          height="400"
           alt="broken-mug"
         />
       </motion.figure>
@@ -51,7 +51,7 @@ const NotFound = () => {
           variants={item}
         >
           Return to home page?
-          <Link href="/" legacyBehavior>
+          <Link href="/">
             <a
               className="ml-[5px] cursor-pointer underline-offset-[0.2em] hover:underline-offset-[0.4em] hover:decoration-primary dark:hover:decoration-primary-dark"
               style={{

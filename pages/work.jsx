@@ -17,8 +17,8 @@ const Project = ({ project }) => (
         <Image
           src={`/projects/${project.image}`}
           alt={project.name}
-          width={250}
-          height={130}
+          width="250px"
+          height="130px"
         />
       </div>
     </a>

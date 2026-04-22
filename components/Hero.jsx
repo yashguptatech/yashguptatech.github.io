@@ -47,7 +47,7 @@ const Intro = ({intro}) => {
           >
             Resume
           </a>
-          <Link href={"work"} title="my projects and work experience" legacyBehavior>
+          <Link href={"work"} title="my projects and work experience">
             <a className="group mt-8 flex justify-center items-center h-[30px] md:h-[50px] w-[70px] md:w-[120px] bg-background1-dark dark:bg-background1 text-primary-dark dark:text-primary font-bold transition-all rounded-2xl">
               Works
               <span className="ml-2 animate-pulse hidden group-hover:inline" ><TbPlayerTrackNext/></span>
