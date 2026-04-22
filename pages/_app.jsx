@@ -1,7 +1,17 @@
+import { useEffect } from "react";
+import Clarity from "@microsoft/clarity";
 import { NextSeo } from "next-seo";
 import "../styles/globals.css";
 
 function App({ Component, pageProps }) {
+  useEffect(() => {
+    const clarityProjectId = process.env.NEXT_PUBLIC_CLARITY_PROJECT_ID;
+
+    if (clarityProjectId) {
+      Clarity.init(clarityProjectId);
+    }
+  }, []);
+
   return (
     <>
       <NextSeo
