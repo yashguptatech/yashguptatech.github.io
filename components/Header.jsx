@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { AiFillGithub, AiFillLinkedin } from "react-icons/ai";
-import { FaTwitter } from "react-icons/fa";
+import { FaXTwitter } from "react-icons/fa6";
 import { CgMail } from "react-icons/cg";
 import { BsMedium } from "react-icons/bs";
 
@@ -27,11 +27,11 @@ const SocialMedia = ({ socials }) => (
     <a
       className="transition-all text-icons dark:text-icons-dark rounded-[50px] p-[8px] md:hover:scale-[1.2] md:hover:text-[white] md:hover:bg-button md:dark:hover:bg-button-dark"
       href={socials.twitter}
-      title="Contact me on Twitter"
+      title="Contact me on X"
       target="_blank"
       rel="noopener noreferrer"
     >
-      <FaTwitter className="w-10 h-10 md:w-12 md:h-12" size="3rem" />
+      <FaXTwitter className="w-10 h-10 md:w-12 md:h-12" size="3rem" />
     </a>
     <a
       className="transition-all text-icons dark:text-icons-dark rounded-[50px] p-[8px] md:hover:scale-[1.2] md:hover:text-[white] md:hover:bg-button md:dark:hover:bg-button-dark"

@@ -11,6 +11,15 @@ export default class MyDocument extends Document {
             href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap"
           />
           <link rel="icon" type="image/png" href={"/favico.png"} />
+          <script
+            dangerouslySetInnerHTML={{
+              __html: `(function(c,l,a,r,i,t,y){
+                c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+                t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+                y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+              })(window, document, "clarity", "script", "YOUR_CLARITY_PROJECT_ID");`,
+            }}
+          />
         </Head>
         <body className="font-main text-[1.6]rem bg-bodyBgColor dark:bg-bodyBgColor-dark text-primary dark:text-primary-dark cursor-default">
           <Main />
